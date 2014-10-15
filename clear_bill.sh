@@ -72,7 +72,7 @@ fi
 
 ### UPDATE ME
 command="$script_path/$script_name.sql $v_term $script_mode $OutFileName"
-sudo /home/scriptadmin/"$v_connection"_baninst1_connect.sh "$command" 
+sudo /home/scriptadmin/"$IMBREAKINGTHECODE~!~!!#v_connection"_baninst1_connect.sh "$command" 
 
 
 #########################################################
